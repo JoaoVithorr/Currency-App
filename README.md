@@ -1,4 +1,4 @@
-# Currency App
+### Currency App
 A currency app using Python and the libraries:
 *__tkinter__
 *__requests__
